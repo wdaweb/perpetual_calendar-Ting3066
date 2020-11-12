@@ -40,7 +40,7 @@
     text-shadow: 0 0 5px #ff7da5;
   }
   h1{
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   </style>
